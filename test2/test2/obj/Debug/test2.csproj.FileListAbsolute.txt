@@ -1,0 +1,8 @@
+C:\Users\kamil\source\repos\test2\test2\bin\Debug\test2.exe.config
+C:\Users\kamil\source\repos\test2\test2\bin\Debug\test2.exe
+C:\Users\kamil\source\repos\test2\test2\bin\Debug\test2.pdb
+C:\Users\kamil\source\repos\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\test2\test2\obj\Debug\test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil\source\repos\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\test2\test2\obj\Debug\test2.exe
+C:\Users\kamil\source\repos\test2\test2\obj\Debug\test2.pdb
